@@ -1,0 +1,13 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "flask>=3.1.1",
+    "lxml>=5.4.0",
+    "requests>=2.32.3",
+    "schedule>=1.2.2",
+    "trafilatura>=2.0.0",
+]
